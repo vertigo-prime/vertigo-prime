@@ -1,11 +1,5 @@
-# B. Vinson
+# Cheating is allowed!
 
----
-AKA Vertigo-Prime
-
-
-## Background
-```python
 background_dict = {
     'pronouns': [
         'he',
@@ -25,4 +19,3 @@ background_dict = {
     ],
     'current_occupation': 'Senior DevOps Engineer at [REDACTED]',
 }
-```
