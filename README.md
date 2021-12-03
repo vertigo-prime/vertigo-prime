@@ -1,16 +1,28 @@
-### Hi there 👋
+# B. Vinson
 
-<!--
-**vertigo-prime/vertigo-prime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+AKA Vertigo-Prime
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+```python
+background_dict = {
+    'pronouns': [
+        'he',
+        'him',
+        'his'
+    ],
+    'coding_languages': [
+        'Python',
+        'Ruby',
+        'Perl',
+        'Javascript (client-side)'
+    ],
+    'other_compy_languages': [
+        'Terraform',
+        'SQL',
+        'HTML'
+    ],
+    'current_occupation': 'Senior DevOps Engineer at [REDACTED]',
+}
+```
